@@ -159,7 +159,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.6603774, g: 0.60758334, b: 0.58873266, a: 0}
+  m_BackGroundColor: {r: 0.20692417, g: 0.5849056, b: 0.30263487, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -239,8 +239,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc263b3b332ab84eb15040fcf0555d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  rotationSpeed: 10
+  speed: 10
+  rotationSpeed: 0
 --- !u!61 &980007296
 BoxCollider2D:
   m_ObjectHideFlags: 0
